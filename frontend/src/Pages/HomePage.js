@@ -19,7 +19,7 @@ const HomePage = () => {
                 bg={"white"}
                 w="100%"
                 m="40px 0 15px 0"
-                borderRadius="1g"
+                borderRadius="10px"
                 borderWidth="1px"
             >
                 <Text
@@ -33,7 +33,7 @@ const HomePage = () => {
                 bg="white"
                 w="100%"
                 p={4}
-                borderRadius="1g"
+                borderRadius="10px"
                 borderWidth="1px"
             >
 
